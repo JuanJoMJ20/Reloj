@@ -2,6 +2,7 @@ import tkinter as tk
 import time
 import math
 
+
 class ClockApp:
     def __init__(self, root):
         self.root = root
