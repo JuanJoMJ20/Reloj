@@ -169,7 +169,7 @@ class ClockApp:
             )
         else:
             self.canvas.create_text(
-                cx, cy - 60, text="ROJOOO", 
+                cx, cy - 60, text="SPORT+", 
                 fill="#e74c3c", font=("Impact", 18)
             )
 
